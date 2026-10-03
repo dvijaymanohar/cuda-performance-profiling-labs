@@ -1,0 +1,14 @@
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.o
+*.out
+*.ncu-rep
+*.nsys-rep
+*.qdrep
+results/
+profiles/
+.vscode/
+.idea/
+.DS_Store
